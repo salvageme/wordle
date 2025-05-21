@@ -1,9 +1,9 @@
-**Wordle in Python**
+# Wordle in Python
 
 A basic command-line version of the classic Wordle game, built in Python! 
 This version works on both Linux and Windows systems.
 
-**Features**
+# Features
 
 - Random word selection from a list of words stored in `.txt` files.
 - Ability to choose words of different lengths (3 to 8).
@@ -13,7 +13,7 @@ This version works on both Linux and Windows systems.
   - Another line will show you the letters in the correct order as you get them right.
 - Cross-platform (tested on Linux and Windows).
 
-**Setup**
+# Setup
 
 1. Clone the repository:
 
@@ -40,7 +40,7 @@ Or:
     python3 wordle.py
 
 
-**File Structure**
+# File Structure
 
    -  wordle.py – The main game file
    -  words – Folder that contains all the words
@@ -48,7 +48,7 @@ Or:
 Make sure the words folder is in the same directory as wordle.py.
 
 
-**How to Play**
+# How to Play
 
     Start the game.
     
@@ -61,7 +61,7 @@ Make sure the words folder is in the same directory as wordle.py.
     Use that feedback to narrow down your next guess!
 
 
-**License**
+# License
 
 This project is licensed under the MIT License.
 
